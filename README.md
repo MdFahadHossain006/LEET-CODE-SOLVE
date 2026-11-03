@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0001-two-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
