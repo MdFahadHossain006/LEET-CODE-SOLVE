@@ -11,9 +11,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0002-add-two-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
