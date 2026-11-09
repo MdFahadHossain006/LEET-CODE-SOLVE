@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0007-reverse-integer) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
