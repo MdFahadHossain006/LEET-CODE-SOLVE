@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,8 +59,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0022-generate-parentheses) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MdFahadHossain006/LEET-CODE-SOLVE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
