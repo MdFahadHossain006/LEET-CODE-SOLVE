@@ -34,7 +34,6 @@ int** fourSum(int* nums, int numsSize, int target, int* returnSize, int** return
             continue;
         }
 
-        // Pruning for index i
         long long min_i = (long long)nums[i] + nums[i + 1] + nums[i + 2] + nums[i + 3];
         if (min_i > target_ll) {
             break;
@@ -49,7 +48,6 @@ int** fourSum(int* nums, int numsSize, int target, int* returnSize, int** return
                 continue;
             }
 
-            // Pruning for index j
             long long min_j = (long long)nums[i] + nums[j] + nums[j + 1] + nums[j + 2];
             if (min_j > target_ll) {
                 break;
